@@ -36,10 +36,10 @@ This project demonstrates how to use **BeEF** to hook a browser via a stored/ref
 ## 📸 Screenshots
 
 ### 🎯 Mutillidae Home Page  
-![Mutillidae Home Page](screenshots/mutillidae-home-page.png)
+<img src="screenshots/mutillidae-home-page.png" alt="Mutillidae Home Page" width="400" />
 
 ### 🧰 Word Image  
-![Word Image](screenshots/word-image-12.webp)
+<img src="screenshots/word-image-12.webp" alt="Word Image" width="400" />
 
 ----
 
