@@ -35,9 +35,11 @@ This project demonstrates how to use **BeEF** to hook a browser via a stored/ref
 
 ## 📸 Screenshots
 
-| Hooked Victim | BeEF Commands |
-|---------------|----------------|
-| ![hooked](screenshots/hooked_browser.png) | ![cmds](screenshots/beef_command.png) |
+### 🎯 Hooked Victim
+![Hooked Victim](screenshots/hooked.png)
+
+### 🧰 BeEF Command Panel
+![BeEF Commands](screenshots/commands.png)
 
 ---
 
