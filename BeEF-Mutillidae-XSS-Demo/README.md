@@ -35,11 +35,9 @@ This project demonstrates how to use **BeEF** to hook a browser via a stored/ref
 
 ## 📸 Screenshots
 
-### 🎯 Hooked Victim  
-![Hooked Victim](screenshots/hooked.png)
+![Hooked Victim](BeEF-Mutillidae-XSS-Demo/screenshots/hooked.png)
+![Mutillidae Home Page](BeEF-Mutillidae-XSS-Demo/screenshots/commands.png)
 
-### 🧰 Mutillidae Home Page  
-![Mutillidae Home Page](screenshots/commands.png)
 
 ----
 
