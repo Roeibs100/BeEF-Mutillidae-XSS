@@ -41,7 +41,7 @@ This project demonstrates how to use **BeEF** to hook a browser via a stored/ref
 ### 🧰 Mutillidae Home Page  
 ![Mutillidae Home Page](screenshots/commands.png)
 
----
+----
 
 ## 📑 Sample Payload (`xss_mutillidae_payload.txt`)
 ```html
