@@ -40,6 +40,7 @@ This project demonstrates how to use **BeEF** to hook a browser via a stored/ref
 
 ### 🧰 Word Image  
 <img src="screenshots/word-image-12.webp" alt="Word Image" width="400" />
+<img src="./report/screenshots/mutillidae-home-page.png" />
 
 ----
 
